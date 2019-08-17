@@ -15,8 +15,6 @@ dependencies:
   flutter_web: any
   flutter_web_ui: any
 
-  flutter_sequence_animation: "^3.0.0"
-
 
 # dev_dependencies:
 #   flutter_test:
