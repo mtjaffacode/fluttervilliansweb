@@ -2,7 +2,7 @@ import 'dart:async';
 
 import 'package:flutter_web/material.dart';
 import 'package:flutter_web/src/scheduler/ticker.dart';
-import 'package:flutter_sequence_animation.dart';
+import 'package:flutter_villains/villains/flutter_sequence_animation.dart';
 
 class VillainController {
   static Future playAllVillains(BuildContext context, {bool entrance = true, bool didPop = false}) {
